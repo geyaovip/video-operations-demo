@@ -1,0 +1,214 @@
+Help Center - Connecting your channels to Buffer
+Detected country:
+VN
+Go to Buffer
+Go to Buffer
+‌
+‌
+‌
+Powered by
+Home
+Channel Management
+Connecting your channels to Buffer
+Connecting your channels to Buffer
+26
+min read
+Share
+Connecting your social channels is the first step to taking full advantage of your Buffer account. Once a channel is connected, you can
+publish
+posts,
+analyze
+results, and
+engage
+with comments. This guide covers which channels we support, how to connect to a single channel, and how to connect multiple accounts on the same network.
+:::info
+Connecting your channels on mobile?
+See
+Connecting and managing channels on the Buffer mobile app
+.
+If your channel shows as
+"Unavailable"
+when you try to connect it (
+like this
+), it's likely already connected to a different Buffer organization. See
+Why channels appear as "Unavailable" when connecting them to Buffer
+.
+:::
+Video: Connecting your channels to Buffer
+Watch the video below to learn more about connecting your social channels to Buffer.
+https://www.youtube.com/watch?v=f7lojRe_mvs
+The social channels Buffer supports
+Channel
+Publishing
+Analytics
+Engagement
+Facebook Pages
+✓
+✓
+✓
+Facebook groups
+✓ (
+notification publishing only)
+Instagram Business and Creator accounts
+✓
+✓
+✓
+Instagram Personal Accounts
+✓ (
+notification publishing only)
+X/Twitter profiles
+✓
+✓
+✓
+LinkedIn Pages
+✓
+✓
+✓
+LinkedIn profiles
+✓
+✓
+Pinterest business and personal accounts
+✓
+TikTok accounts
+✓
+Google business profiles
+✓
+Start Pages
+✓
+Mastodon
+✓
+✓
+YouTube Shorts
+✓
+Threads
+✓
+✓
+Bluesky
+✓
+✓
+Substack
+✓
+✓
+:::info
+Notes:
+Interested in another social channel? See who else is talking about it on our
+Suggestions Board
+.
+It's not possible to connect Facebook
+personal profiles
+to Buffer, as Meta prefers users not automate posting to these types of channels.
+While our Free plan supports connections for up to three channels at once, there is a
+lifetime
+channel connection limit of 8 channels per social network. This means that, on the Free plan, we track the number of unique channels you've connected per social network, even if they're no longer connected (e.g. a user on the Free plan would only be able to connect 8 distinct TikTok accounts). This lifetime limit does not apply to
+our paid plans
+.
+❓ Can our Customer Advocacy team answer any questions for you? Feel free to reach out via
+hello@buffer.com
+.
+:::
+How to connect a channel
+Before connecting a channel to Buffer, log in to the correct social account in another browser tab. This helps us identify the account you want to connect, especially if you manage multiple accounts on the same platform.
+Steps:
+Open a new browser tab and log in to the exact social account you want to connect (for example, log in at
+facebook.com
+as the profile that is an admin of the Page, or log in to the specific TikTok account).
+Open a second tab in the same browser, log in to Buffer, click
++ New
+in the top navigation bar, and select
+Connect a New Channel
+. (If you already have channels connected, click
+Connect New Channel
+, then choose the network.)
+Click the social network you want to connect to and follow the network's prompts to grant Buffer permission.
+When the network asks what to allow,
+approve everything it offers
+(see the important note below), then finish. The channel then appears in your channel list.
+To reorder channels in the channel menu, click and drag a channel to your preferred position. By default, new channels appear newest first in your channel list. Once you click and drag channels into your preferred order, Buffer remembers that order.
+We have a dedicated guide for each network if you hit a snag connecting a specific one:
+Connecting your Facebook Page to Buffer
+*
+Connecting your Facebook group to Buffer
+Connecting your Instagram account to Buffer
+Connecting your LinkedIn profile or Page to Buffer
+Connecting your TikTok account to Buffer
+Connecting your Mastodon account to Buffer
+Connecting your Pinterest personal or business account to Buffer
+Connecting your Bluesky channel to Buffer
+Connecting your Substack account to Buffer
+Connecting your Threads account to Buffer
+Facebook Pages:
+Give Buffer access to every Page. When Facebook displays
+Choose what you allow
+, keep all toggles enabled. Click
+See all Pages
+to expand the full list, then grant access to
+all
+Pages and groups. Otherwise, Buffer may not be able to find the Page you want to connect. This is the most common reason a Facebook Page does not appear during connection.
+:::info
+Notes
+For users on a team, including Admins:
+If you can see a channel under
+Manage Channels
+but not in the
+Publishing
+tab, you may not have permission to access it. Ask your organization owner to update your access by following the steps in
+Changing user permissions in your organization
+.
+Social channel access tokens occasionally expire, requiring you to reconnect the channel. See
+Refreshing a channel in Buffer
+for instructions.
+💡 Once a channel is connected, set up your posting times so your queue can start filling. See
+Setting up your timezone and posting schedule
+.
+:::
+Connecting more than one account from the same network
+You can connect multiple accounts from the same social network, such as two Instagram accounts or three TikTok accounts. Buffer connects the account currently logged in to your browser, and no account picker appears during the connection process. If Buffer shows an
+“already connected”
+message or only displays another account, follow these steps to connect the correct one:
+Log out of the social channel completely, or use an incognito/private window.
+In the incognito window, log in to the account you want to connect to Buffer. This prevents Buffer from connecting to the account that is already signed in on your regular browser.
+Log in to the correct social account first in one browser tab, then connect to it in Buffer from a second tab.
+This allows us to quickly detect the channel you want to connect to.
+:::info
+Facebook and LinkedIn work a little differently: you always authorize through your
+personal profile
+, and Buffer then shows the Pages you manage so you can pick the right one. Signing in with your personal profile is normal and does
+not
+connect or post to that personal profile.
+:::
+What access do I need before connecting a social channel?
+If a social account isn't listed or the Page doesn't appear during the connection, you may be signed in to the wrong account or lack the required role. Check the requirements for each network below.
+Facebook Pages:
+Sign in with a Facebook profile that has
+Full control
+of the Page. If the Page is missing, confirm that your profile has Full control and that all Pages were selected under
+Choose what you allow
+.
+LinkedIn Pages:
+You must be a
+Super Admin
+of the LinkedIn Page. Sign in with your personal LinkedIn profile, then select a Page you’re a Super Admin of. Content Admins and other roles cannot connect Pages to Buffer.
+YouTube:
+You must be signed in as the channel
+Owner
+, not a Manager. Log out of all Google accounts, then sign in only to the Google account that owns the channel. Using an incognito window can help. For Brand Account channels, sign in with the owning Google account. Newly created YouTube channels may need to wait a day or two before they can be connected.
+Instagram, TikTok, Pinterest, Threads, Bluesky, Mastodon, Substack, and X/Twitter.
+Be signed in to the exact account you want to connect before you start. Follow the instructions in
+Connecting more than one account from the same network
+if you manage multiple accounts.
+FAQ
+Once I connect a channel, do I need to stay logged in to that social account to post?
+No. When you connect a channel, the social network gives Buffer an
+access token
+, which is like a secure key to access that account. As long as your login and permissions stay valid, Buffer uses that token to post on your behalf, so you don't have to stay logged in to the social account in your browser.
+Can I connect multiple accounts from the same social network to Buffer?
+Yes. Because Buffer connects whichever account is signed in in your browser, log in to the exact account first (or use an incognito window), then connect. For Facebook Pages, sign in as a Page admin; for LinkedIn Pages, sign in as a Super Admin; for YouTube, sign in as the channel owner.
+Which social networks are unsupported?
+We don’t currently have an integration with Snapchat, Reddit, WhatsApp, Telegram, Twitch, OnlyFans, or lemon8, so these can't be connected to Buffer. You can check the table at the top of this article for the channels we do support. If you'd like to see another channel added, you can log your interest on our
+Suggestions Board
+.
+Can I schedule posts to Discord?
+No, unfortunately, it's not possible to schedule posts to Discord. However, you can
+join our community on Discord here
+.
+Share

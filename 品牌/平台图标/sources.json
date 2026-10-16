@@ -1,0 +1,50 @@
+[
+  {
+    "key": "douyin",
+    "name": "抖音",
+    "page": "https://creator.douyin.com/",
+    "asset": "https://lf3-static.bytednsdoc.com/obj/eden-cn/yvahlyj_upfbvk_zlp/ljhwZthlaukjlkulzlp/pc_creator/favicon_v2_7145ff0.ico",
+    "mime": "image/vnd.microsoft.icon",
+    "bytes": 4286,
+    "sha256": "1fd2b6b6e7c1280f211a486b524e57fea14fc6d6a3038898ecaf739747b43b72",
+    "size": [
+      32,
+      32
+    ],
+    "pngSha256": "671cff2df6abef973f68a234c01315122048d84770d693d66e5c286698e7505f",
+    "acquiredAt": "2026-10-14",
+    "usedAs": "平台识别图标；来自官方页面引用的favicon"
+  },
+  {
+    "key": "channels",
+    "name": "视频号",
+    "page": "https://channels.weixin.qq.com/",
+    "asset": "https://res.wx.qq.com/t/wx_fed/finder/helper/finder-helper-web/res/favicon-v2.ico",
+    "mime": "image/vnd.microsoft.icon",
+    "bytes": 997,
+    "sha256": "f27ed8a51c12055714e2867bc346e6c8fe5e31719ef7d8675e9f23422ca0b92d",
+    "size": [
+      32,
+      32
+    ],
+    "pngSha256": "475ce240ad12e7a4e29fde0607d055c63d52c95f37905b2cf11beff149b5c056",
+    "acquiredAt": "2026-10-14",
+    "usedAs": "平台识别图标；来自官方页面引用的favicon"
+  },
+  {
+    "key": "xiaohongshu",
+    "name": "小红书",
+    "page": "https://creator.xiaohongshu.com/",
+    "asset": "https://www.xiaohongshu.com/favicon.ico",
+    "mime": "image/x-icon",
+    "bytes": 4286,
+    "sha256": "33b25a8e2b0a67d2fc58eb6739a608211af9e62b3fdd935e7ce7e1ce12963372",
+    "size": [
+      32,
+      32
+    ],
+    "pngSha256": "3fea38d294575a4d79b3aea4d9b2e6594b7bc41a3fdad30c4d2a0a496ac3cf13",
+    "acquiredAt": "2026-10-14",
+    "usedAs": "平台识别图标；来自官方页面引用的favicon"
+  }
+]

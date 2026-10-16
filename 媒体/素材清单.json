@@ -1,0 +1,732 @@
+{
+  "updated": "2026-10-16",
+  "note": "文件及来源清单，不是验收结果；本轮按磁盘重新计算大小和哈希。",
+  "files": [
+    {
+      "path": "媒体/原片/MAT-01.mp4",
+      "bytes": 160314606,
+      "sha256": "48643f02b8436689c02942e254b48533856f3832f145dc26e2a797d2436aacc8",
+      "role": "原片",
+      "id": "MAT-01",
+      "title": "园区楼宇与停车航拍",
+      "source_page": "https://www.pexels.com/video/stunning-aerial-view-of-modern-office-complex-33497903/",
+      "author": null,
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/原片/MAT-02.mp4",
+      "bytes": 823591,
+      "sha256": "d1460710ddae9f094056ee1539bc974741f848f4a0baf7253b621a45c289427e",
+      "role": "原片",
+      "id": "MAT-02",
+      "title": "开放办公空间",
+      "source_page": "https://www.pexels.com/video/an-empty-office-5483080/",
+      "author": "cottonbro studio",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/原片/MAT-03.mp4",
+      "bytes": 2170623,
+      "sha256": "7bfd3705e4e88b102a05e2d29db4ddaf0718c467873032020c8261c2b8c3d755",
+      "role": "原片",
+      "id": "MAT-03",
+      "title": "办公工位与设备",
+      "source_page": "https://www.pexels.com/video/an-empty-office-8347237/",
+      "author": "Kampus Production",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/原片/MAT-04.mp4",
+      "bytes": 3205766,
+      "sha256": "3d07f77e0d8894c43218b95b612b49e0d03c1ffd07e5b620999dcf8274fb3df4",
+      "role": "原片",
+      "id": "MAT-04",
+      "title": "采光会议空间",
+      "source_page": "https://www.pexels.com/video/modern-office-interior-5716999/",
+      "author": "Tima Miroshnichenko",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/原片/MAT-05.mp4",
+      "bytes": 1354122,
+      "sha256": "1ba1c6358797fea0010eaf704cf65ae78da0b8d5bbda82bb3312893c903a7d7e",
+      "role": "原片",
+      "id": "MAT-05",
+      "title": "商务会议配套",
+      "source_page": "https://www.pexels.com/video/a-conference-room-with-a-large-screen-and-chairs-18877223/",
+      "author": "Mo Productions",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/原片/MAT-06.mp4",
+      "bytes": 2657683,
+      "sha256": "0111373dfac74e6b196b38ec1adb35d0abada2fec7194281483d38298f0d4537",
+      "role": "原片",
+      "id": "MAT-06",
+      "title": "小团队办公细节",
+      "source_page": "https://www.pexels.com/video/an-empty-office-7844843/",
+      "author": null,
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/封面/MAT-01.jpg",
+      "bytes": 48787,
+      "sha256": "2fbed741654ce5182fab3b76223510911170d3de1002a7f725c0c6815d79a6b9",
+      "role": "封面",
+      "id": "MAT-01",
+      "title": "园区楼宇与停车航拍",
+      "source_page": "https://www.pexels.com/video/stunning-aerial-view-of-modern-office-complex-33497903/",
+      "author": null,
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/封面/MAT-02.jpg",
+      "bytes": 17071,
+      "sha256": "900acdaae91e74a28a91f213d6105cf7d96247dbe6ef76fa04fc031acd1356e0",
+      "role": "封面",
+      "id": "MAT-02",
+      "title": "开放办公空间",
+      "source_page": "https://www.pexels.com/video/an-empty-office-5483080/",
+      "author": "cottonbro studio",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/封面/MAT-03.jpg",
+      "bytes": 20498,
+      "sha256": "fc4adb2a5be2e33dcda395fbf0167d8778f396d5de2c406450a15770b436d9ef",
+      "role": "封面",
+      "id": "MAT-03",
+      "title": "办公工位与设备",
+      "source_page": "https://www.pexels.com/video/an-empty-office-8347237/",
+      "author": "Kampus Production",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/封面/MAT-04.jpg",
+      "bytes": 18627,
+      "sha256": "57bffac05307712c8a8a3bf921b9745644b0db5203c702c8f03a06e4605c8612",
+      "role": "封面",
+      "id": "MAT-04",
+      "title": "采光会议空间",
+      "source_page": "https://www.pexels.com/video/modern-office-interior-5716999/",
+      "author": "Tima Miroshnichenko",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/封面/MAT-05.jpg",
+      "bytes": 17378,
+      "sha256": "c4ac331c7a8f400e2c6f15bf19ef8cb8f013434f835fc9d40bd49eff883fff30",
+      "role": "封面",
+      "id": "MAT-05",
+      "title": "商务会议配套",
+      "source_page": "https://www.pexels.com/video/a-conference-room-with-a-large-screen-and-chairs-18877223/",
+      "author": "Mo Productions",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/封面/MAT-06.jpg",
+      "bytes": 17512,
+      "sha256": "4d2c7646c19cf0be3d7129041fd4591bd0b154b302efb3557a43881668502acd",
+      "role": "封面",
+      "id": "MAT-06",
+      "title": "小团队办公细节",
+      "source_page": "https://www.pexels.com/video/an-empty-office-7844843/",
+      "author": null,
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/封面/V-01.jpg",
+      "bytes": 34029,
+      "sha256": "2b3696bc5b6af0e7a3d1c8ded32c8e6d911372c7f15b531a4f3a959201734144",
+      "role": "封面",
+      "id": "V-01",
+      "title": "500㎡研发办公空间怎么选",
+      "source_ids": [
+        "MAT-01",
+        "MAT-02",
+        "MAT-04"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-02.jpg",
+      "bytes": 20157,
+      "sha256": "3ef0e85fadb82de1480db9548c86870b9ba032916cfafc3b3f512c54ed34ed5c",
+      "role": "封面",
+      "id": "V-02",
+      "title": "小团队的200㎡办公空间",
+      "source_ids": [
+        "MAT-06",
+        "MAT-03",
+        "MAT-02"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-03.jpg",
+      "bytes": 18966,
+      "sha256": "8394045600799d3a792fbe9b9880f1c0b44e3ef5c88836cb9dbc7736e68e07fd",
+      "role": "封面",
+      "id": "V-03",
+      "title": "350㎡商务办公环境介绍",
+      "source_ids": [
+        "MAT-02",
+        "MAT-05",
+        "MAT-03"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-04.jpg",
+      "bytes": 33758,
+      "sha256": "e81b3aade24220ecb17c552725c25a394c67f50b9ff390778d6575b3674eb54a",
+      "role": "封面",
+      "id": "V-04",
+      "title": "整层办公需要关注哪些细节",
+      "source_ids": [
+        "MAT-01",
+        "MAT-04",
+        "MAT-02"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-05.jpg",
+      "bytes": 17741,
+      "sha256": "c3f48c5f6cdb9d78c4e5a3ca9fa6c353b3b54865c8138545afd7711cab8e4d1f",
+      "role": "封面",
+      "id": "V-05",
+      "title": "企业到访前的配套问题",
+      "source_ids": [
+        "MAT-05",
+        "MAT-01",
+        "MAT-04"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-06.jpg",
+      "bytes": 19013,
+      "sha256": "d2ce9c5088e8baa7fbcaa2086a70810ecd2da488d218b7d7c7aad42893f2e33e",
+      "role": "封面",
+      "id": "V-06",
+      "title": "研发空间的基础条件",
+      "source_ids": [
+        "MAT-03",
+        "MAT-02",
+        "MAT-06"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-07.jpg",
+      "bytes": 34236,
+      "sha256": "edff5ca447647c296493017a23f425eca028b2801a98cc028acc16827b48b817",
+      "role": "封面",
+      "id": "V-07",
+      "title": "产业空间选型需要先确认什么",
+      "source_ids": [
+        "MAT-01",
+        "MAT-03",
+        "MAT-04"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-08.jpg",
+      "bytes": 19104,
+      "sha256": "24df6468b191ce8d299689f08e3987cbafad8eb1c41d16f4dfab83a1e6f3c19d",
+      "role": "封面",
+      "id": "V-08",
+      "title": "研发团队搬迁前的看园清单",
+      "source_ids": [
+        "MAT-02",
+        "MAT-01",
+        "MAT-04"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-09.jpg",
+      "bytes": 15467,
+      "sha256": "025eacf0b2c97eda3277d345fa8919bfb02d0af1f1ce47cf0adbf7e25b5bccc8",
+      "role": "封面",
+      "id": "V-09",
+      "title": "会议与商务空间安排",
+      "source_ids": [
+        "MAT-04",
+        "MAT-05",
+        "MAT-02"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-10.jpg",
+      "bytes": 33397,
+      "sha256": "33718d525162cf9b10f7d6ad20210ed4058e3be38399767abdd2ab6059bab2a3",
+      "role": "封面",
+      "id": "V-10",
+      "title": "办公环境与日常通勤答疑",
+      "source_ids": [
+        "MAT-01",
+        "MAT-02",
+        "MAT-06"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-11.jpg",
+      "bytes": 16956,
+      "sha256": "ce0c2d7c65ce6fc90031e4c9c84e8f2e0980994e525188edd77eaf0c6e507566",
+      "role": "封面",
+      "id": "V-11",
+      "title": "企业看园常见问题",
+      "source_ids": [
+        "MAT-05",
+        "MAT-02",
+        "MAT-01"
+      ]
+    },
+    {
+      "path": "媒体/封面/V-12.jpg",
+      "bytes": 19288,
+      "sha256": "91ed5e0eed1228721f3da2dd46230547a7cedc015f366e2c3626177b232ecd5f",
+      "role": "封面",
+      "id": "V-12",
+      "title": "小团队空间选择建议",
+      "source_ids": [
+        "MAT-06",
+        "MAT-02",
+        "MAT-03"
+      ]
+    },
+    {
+      "path": "媒体/成片/V-01.mp4",
+      "bytes": 1289902,
+      "sha256": "028f271cd355bbcc6b04eed69ddfe5459723c581d2852c564ad9edff1fa00115",
+      "role": "成片",
+      "id": "V-01",
+      "title": "500㎡研发办公空间怎么选",
+      "source_ids": [
+        "MAT-01",
+        "MAT-02",
+        "MAT-04"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-02.mp4",
+      "bytes": 917202,
+      "sha256": "c06ae552eb621843e815d74872416e9a4f5cc5805635b67ceca39b09ac85c540",
+      "role": "成片",
+      "id": "V-02",
+      "title": "小团队的200㎡办公空间",
+      "source_ids": [
+        "MAT-06",
+        "MAT-03",
+        "MAT-02"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-03.mp4",
+      "bytes": 615275,
+      "sha256": "d56787ad0804ede8c73bed685d36bfc6209d5e48818f23489c08b3ea84614ead",
+      "role": "成片",
+      "id": "V-03",
+      "title": "350㎡商务办公环境介绍",
+      "source_ids": [
+        "MAT-02",
+        "MAT-05",
+        "MAT-03"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-04.mp4",
+      "bytes": 1345750,
+      "sha256": "22118ed783ae1bfcf922ee8dd930445778e409f8b3294c8b690e19aef9d2fd4c",
+      "role": "成片",
+      "id": "V-04",
+      "title": "整层办公需要关注哪些细节",
+      "source_ids": [
+        "MAT-01",
+        "MAT-04",
+        "MAT-02"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-05.mp4",
+      "bytes": 1443796,
+      "sha256": "3fd13f4fbfb702dc4077956995055716b6c93b907250b7663aad3acb7518d887",
+      "role": "成片",
+      "id": "V-05",
+      "title": "企业到访前的配套问题",
+      "source_ids": [
+        "MAT-05",
+        "MAT-01",
+        "MAT-04"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-06.mp4",
+      "bytes": 913361,
+      "sha256": "bc55ee4368402f938117990fc5430e799c15be42bc445e052d68b6b848a9e395",
+      "role": "成片",
+      "id": "V-06",
+      "title": "研发空间的基础条件",
+      "source_ids": [
+        "MAT-03",
+        "MAT-02",
+        "MAT-06"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-07.mp4",
+      "bytes": 1476548,
+      "sha256": "d3c7742256f93162618cb36b0e2cdab6045d5100047d0e71f52cd27ec0056cff",
+      "role": "成片",
+      "id": "V-07",
+      "title": "产业空间选型需要先确认什么",
+      "source_ids": [
+        "MAT-01",
+        "MAT-03",
+        "MAT-04"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-08.mp4",
+      "bytes": 1291327,
+      "sha256": "0d09f97308d6281697276bf62cb957ee81c50661faea79beae42e61bbdf35d54",
+      "role": "成片",
+      "id": "V-08",
+      "title": "研发团队搬迁前的看园清单",
+      "source_ids": [
+        "MAT-02",
+        "MAT-01",
+        "MAT-04"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-09.mp4",
+      "bytes": 558682,
+      "sha256": "674bfcece6ad033f8bf0068b07bc520ec3c59ee9a8d409667cbe76bc3001b863",
+      "role": "成片",
+      "id": "V-09",
+      "title": "会议与商务空间安排",
+      "source_ids": [
+        "MAT-04",
+        "MAT-05",
+        "MAT-02"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-10.mp4",
+      "bytes": 1580411,
+      "sha256": "2fe087a9975c74f2c2898b2374cdc1cf277987c236959e0e49e09aee4726ce42",
+      "role": "成片",
+      "id": "V-10",
+      "title": "办公环境与日常通勤答疑",
+      "source_ids": [
+        "MAT-01",
+        "MAT-02",
+        "MAT-06"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-11.mp4",
+      "bytes": 1226079,
+      "sha256": "9f1026a0c0f1a1368ebf4c40853790bd9f26573c1dd1efeef1579c498fd3ae64",
+      "role": "成片",
+      "id": "V-11",
+      "title": "企业看园常见问题",
+      "source_ids": [
+        "MAT-05",
+        "MAT-02",
+        "MAT-01"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/成片/V-12.mp4",
+      "bytes": 898966,
+      "sha256": "56e65ce750cabe0beee10b0f1213200d20f165d206e1bcf60e4c2df66a6e7fd0",
+      "role": "成片",
+      "id": "V-12",
+      "title": "小团队空间选择建议",
+      "source_ids": [
+        "MAT-06",
+        "MAT-02",
+        "MAT-03"
+      ],
+      "duration_seconds": 18.05,
+      "voice": "macOS Tingting，离线准备的中文口播"
+    },
+    {
+      "path": "媒体/素材/MAT-01.mp4",
+      "bytes": 3054236,
+      "sha256": "5e1ab4160e2a2531aa486c90e81d9335c79147147d7bd9a658c2be44e4f2a5ef",
+      "role": "素材",
+      "id": "MAT-01",
+      "title": "园区楼宇与停车航拍",
+      "source_page": "https://www.pexels.com/video/stunning-aerial-view-of-modern-office-complex-33497903/",
+      "author": null,
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/素材/MAT-02.mp4",
+      "bytes": 144312,
+      "sha256": "20609b675aac3fd3763b2eeba18336fdfb7d8186975c76044254aa45b04e57e8",
+      "role": "素材",
+      "id": "MAT-02",
+      "title": "开放办公空间",
+      "source_page": "https://www.pexels.com/video/an-empty-office-5483080/",
+      "author": "cottonbro studio",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/素材/MAT-03.mp4",
+      "bytes": 586462,
+      "sha256": "40ba63894dfcd7168f9e146bbcd9a3039afb6c4fa731288fb9a08bf2a1393cef",
+      "role": "素材",
+      "id": "MAT-03",
+      "title": "办公工位与设备",
+      "source_page": "https://www.pexels.com/video/an-empty-office-8347237/",
+      "author": "Kampus Production",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/素材/MAT-04.mp4",
+      "bytes": 549372,
+      "sha256": "d83b2c8a617cce0e22333689c0f3ff6dd58d704827a5a9e70aeedcdde7abcd7f",
+      "role": "素材",
+      "id": "MAT-04",
+      "title": "采光会议空间",
+      "source_page": "https://www.pexels.com/video/modern-office-interior-5716999/",
+      "author": "Tima Miroshnichenko",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/素材/MAT-05.mp4",
+      "bytes": 350136,
+      "sha256": "4ad45fcd4c1f3f8970d42a5d608eeebeddbee60c82efe2cf6d623691eca1980d",
+      "role": "素材",
+      "id": "MAT-05",
+      "title": "商务会议配套",
+      "source_page": "https://www.pexels.com/video/a-conference-room-with-a-large-screen-and-chairs-18877223/",
+      "author": "Mo Productions",
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/素材/MAT-06.mp4",
+      "bytes": 1053777,
+      "sha256": "2349d795911475edca73ad4c4f4713310a200a0fbc1a3a006560904ff6a69880",
+      "role": "素材",
+      "id": "MAT-06",
+      "title": "小团队办公细节",
+      "source_page": "https://www.pexels.com/video/an-empty-office-7844843/",
+      "author": null,
+      "license_reference": "https://www.pexels.com/license/",
+      "obtained": "2026-10-13",
+      "identity": "公共办公场景素材，不证明为客户物业实拍"
+    },
+    {
+      "path": "媒体/配音/V-01.m4a",
+      "bytes": 157863,
+      "sha256": "ae0a285e51df86888b2abd14495c22d7fee59db80f5dc133d9c37c679abce5b5",
+      "role": "配音",
+      "id": "V-01",
+      "title": "500㎡研发办公空间怎么选",
+      "source_ids": [
+        "MAT-01",
+        "MAT-02",
+        "MAT-04"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-02.m4a",
+      "bytes": 169593,
+      "sha256": "f3698320d58848bdbb510dce6cdb38844df0e0da1717f62281182cac9dc37966",
+      "role": "配音",
+      "id": "V-02",
+      "title": "小团队的200㎡办公空间",
+      "source_ids": [
+        "MAT-06",
+        "MAT-03",
+        "MAT-02"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-03.m4a",
+      "bytes": 154058,
+      "sha256": "5f8902e9d09fc6eb0064f35646978140fcef6ae15bec1eac545427ecdd1b1c22",
+      "role": "配音",
+      "id": "V-03",
+      "title": "350㎡商务办公环境介绍",
+      "source_ids": [
+        "MAT-02",
+        "MAT-05",
+        "MAT-03"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-04.m4a",
+      "bytes": 146983,
+      "sha256": "f9d8f3ea4ef61f986371dd3aa02d41c54874677135e6ebfcc9e50d3167144b76",
+      "role": "配音",
+      "id": "V-04",
+      "title": "整层办公需要关注哪些细节",
+      "source_ids": [
+        "MAT-01",
+        "MAT-04",
+        "MAT-02"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-05.m4a",
+      "bytes": 149355,
+      "sha256": "7b6dbc8eeb2a0f424f9ff0f1651d1ef33ee8cefa44a3efad73f6d49a879db198",
+      "role": "配音",
+      "id": "V-05",
+      "title": "企业到访前的配套问题",
+      "source_ids": [
+        "MAT-05",
+        "MAT-01",
+        "MAT-04"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-06.m4a",
+      "bytes": 152845,
+      "sha256": "c999fa70351c03b669e07a860116b99e5eb800ce591837a3349c7505ca5a2aa5",
+      "role": "配音",
+      "id": "V-06",
+      "title": "研发空间的基础条件",
+      "source_ids": [
+        "MAT-03",
+        "MAT-02",
+        "MAT-06"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-07.m4a",
+      "bytes": 155586,
+      "sha256": "812adf54bc34556f7b735cc450598ae9ea838d21cf7c53ace23dbe6697bd9c24",
+      "role": "配音",
+      "id": "V-07",
+      "title": "产业空间选型需要先确认什么",
+      "source_ids": [
+        "MAT-01",
+        "MAT-03",
+        "MAT-04"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-08.m4a",
+      "bytes": 153389,
+      "sha256": "0f957196a836a0f4d8747a4851652c1d21cb8cd6827e9f80547adb835747257b",
+      "role": "配音",
+      "id": "V-08",
+      "title": "研发团队搬迁前的看园清单",
+      "source_ids": [
+        "MAT-02",
+        "MAT-01",
+        "MAT-04"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-09.m4a",
+      "bytes": 127999,
+      "sha256": "f4bd54cf8624b51d48f05d1e3f3e5f8c8bc6f7b905b72b2ea01402bfbf595f6a",
+      "role": "配音",
+      "id": "V-09",
+      "title": "会议与商务空间安排",
+      "source_ids": [
+        "MAT-04",
+        "MAT-05",
+        "MAT-02"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-10.m4a",
+      "bytes": 151675,
+      "sha256": "cd5c54f461dd6f42f78a12b649ca6b65dc7268691e23307691b947f46f2aea35",
+      "role": "配音",
+      "id": "V-10",
+      "title": "办公环境与日常通勤答疑",
+      "source_ids": [
+        "MAT-01",
+        "MAT-02",
+        "MAT-06"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-11.m4a",
+      "bytes": 142954,
+      "sha256": "a6340b639ee26da62922365ec7d53c9e8df03c7d8475ce7c85e030a9b1c69607",
+      "role": "配音",
+      "id": "V-11",
+      "title": "企业看园常见问题",
+      "source_ids": [
+        "MAT-05",
+        "MAT-02",
+        "MAT-01"
+      ]
+    },
+    {
+      "path": "媒体/配音/V-12.m4a",
+      "bytes": 140426,
+      "sha256": "e14c69f0919b741ebcea76ef7dd05e49e632704ea83f28ff80debad326a73943",
+      "role": "配音",
+      "id": "V-12",
+      "title": "小团队空间选择建议",
+      "source_ids": [
+        "MAT-06",
+        "MAT-02",
+        "MAT-03"
+      ]
+    }
+  ]
+}

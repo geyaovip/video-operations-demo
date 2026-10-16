@@ -1,0 +1,13 @@
+# 运行期生成物与凭据
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.wrangler/
+.deploy/
+site/
+# 本机原片与可重新生成的交付包不进入Git；正式源码、短素材和配音保留
+/媒体/原片/
+/交付/*.zip

@@ -1,0 +1,308 @@
+{
+  "review_date": "2026-10-13",
+  "document_url": "https://cloud.tencent.com/document/product/1834/138350",
+  "ppt_entry": "https://answerbit.qq.com/zh-CN",
+  "assets": [
+    {
+      "id": "DOC-01",
+      "file": "doc-01.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/6f809993808ec02cc8e69a254f2551d6.png",
+      "width": 3300,
+      "height": 1712
+    },
+    {
+      "id": "DOC-02",
+      "file": "doc-02.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/104acfcdfa9b4ef1e14686050d1bd046.png",
+      "width": 3220,
+      "height": 1436
+    },
+    {
+      "id": "DOC-03",
+      "file": "doc-03.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/85cf54c25535dadcd32cc16ca01c496e.png",
+      "width": 2552,
+      "height": 1286
+    },
+    {
+      "id": "DOC-04",
+      "file": "doc-04.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/d457286270d61dfefd0c7b7a691c2517.png",
+      "width": 3280,
+      "height": 1720
+    },
+    {
+      "id": "DOC-05",
+      "file": "doc-05.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/5d46aa529a81827e1eaa204339cf6e35.png",
+      "width": 3312,
+      "height": 1722
+    },
+    {
+      "id": "DOC-06",
+      "file": "doc-06.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/fcdc7345fb467de0289619b0076a830d.png",
+      "width": 3312,
+      "height": 1700
+    },
+    {
+      "id": "DOC-07",
+      "file": "doc-07.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/61c83385ce1977246e5b675c905128b2.png",
+      "width": 3286,
+      "height": 1720
+    },
+    {
+      "id": "DOC-08",
+      "file": "doc-08.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/8e165184929bc7c438c39d92528a9d12.png",
+      "width": 2680,
+      "height": 1620
+    },
+    {
+      "id": "DOC-09",
+      "file": "doc-09.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/258ed3e076f21c98a95d0cd641339fdf.png",
+      "width": 3294,
+      "height": 1674
+    },
+    {
+      "id": "DOC-10",
+      "file": "doc-10.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/eacfc0a251b7999b3f0b267ddd4438dc.png",
+      "width": 2834,
+      "height": 1516
+    },
+    {
+      "id": "DOC-11",
+      "file": "doc-11.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/eeb92f26cb668af6e7c7cd995a271286.png",
+      "width": 2954,
+      "height": 1574
+    },
+    {
+      "id": "DOC-12",
+      "file": "doc-12.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/f119886b5dfb0c30092f99cad53ef4c6.png",
+      "width": 2662,
+      "height": 1468
+    },
+    {
+      "id": "DOC-13",
+      "file": "doc-13.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/1cc90c6302b6b21af7f5f64f69a1d4fe.png",
+      "width": 3146,
+      "height": 1262
+    },
+    {
+      "id": "DOC-14",
+      "file": "doc-14.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/22abfa26789b54edf3e14f9d943c47cd.png",
+      "width": 3138,
+      "height": 1692
+    },
+    {
+      "id": "DOC-15",
+      "file": "doc-15.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/7ade4b23149313bf0909f16dae665c15.png",
+      "width": 2518,
+      "height": 1574
+    },
+    {
+      "id": "DOC-16",
+      "file": "doc-16.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/b5a1b6bcb3c322e482b8e776bf023b92.png",
+      "width": 3584,
+      "height": 1948
+    },
+    {
+      "id": "DOC-17",
+      "file": "doc-17.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/87e593f77b4cb05ba784c227e696ef81.png",
+      "width": 3584,
+      "height": 1948
+    },
+    {
+      "id": "DOC-18",
+      "file": "doc-18.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/65f0205cebb69960aecdfd1b68d4c6dd.png",
+      "width": 3584,
+      "height": 1948
+    },
+    {
+      "id": "DOC-19",
+      "file": "doc-19.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/193138248fcd7f08b84336412c2b05ea.png",
+      "width": 3584,
+      "height": 1948
+    },
+    {
+      "id": "DOC-20",
+      "file": "doc-20.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/c7c37a70f91b89e673832ea6a7333662.png",
+      "width": 3584,
+      "height": 1948
+    },
+    {
+      "id": "DOC-21",
+      "file": "doc-21.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/0f0c0f6bf918fc050c736d921a8d29d5.png",
+      "width": 3584,
+      "height": 1948
+    },
+    {
+      "id": "DOC-22",
+      "file": "doc-22.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/ac5ccde84517009642ec9ce710c7d156.png",
+      "width": 3584,
+      "height": 1948
+    },
+    {
+      "id": "DOC-23",
+      "file": "doc-23.png",
+      "source_url": "https://qcloudimg.tencent-cloud.cn/image/document/48535b203166ad694fca907749006052.png",
+      "width": 3098,
+      "height": 1690
+    },
+    {
+      "id": "PPT-01",
+      "file": "ppt-01.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_0.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-02",
+      "file": "ppt-02.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_1.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-03",
+      "file": "ppt-03.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_2.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-04",
+      "file": "ppt-04.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_3.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-05",
+      "file": "ppt-05.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_4.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-06",
+      "file": "ppt-06.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_5.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-07",
+      "file": "ppt-07.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_6.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-08",
+      "file": "ppt-08.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_7.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-09",
+      "file": "ppt-09.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_8.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-10",
+      "file": "ppt-10.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_9.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-11",
+      "file": "ppt-11.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_10.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-12",
+      "file": "ppt-12.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_11.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-13",
+      "file": "ppt-13.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_12.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-14",
+      "file": "ppt-14.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_13.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-15",
+      "file": "ppt-15.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_14.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-16",
+      "file": "ppt-16.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_15.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-17",
+      "file": "ppt-17.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_16.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-18",
+      "file": "ppt-18.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_17.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-19",
+      "file": "ppt-19.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_18.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": "PPT-20",
+      "file": "ppt-20.png",
+      "source_url": "https://geo-qidian-1258344701.cos.accelerate.myqcloud.com/geo-fe/shared/rockimg/AnswerBit_0_19.png",
+      "width": 3840,
+      "height": 2160
+    }
+  ]
+}
