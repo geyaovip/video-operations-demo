@@ -21,4 +21,4 @@
 
 检查执行`python3 工具/检查交付.py --url http://127.0.0.1:8797`，打包执行`python3 工具/打包交付.py`。完成实际浏览器验证后，再报告具体验证范围；语法与ZIP检查不能代替交互、真实文件或平台验收。
 
-部署按[部署说明](文档/维护/部署.md)：GitHub私有仓库、Cloudflare Pages静态托管，不部署云服务器。原片与ZIP不进Git；无原片克隆用runtime-only检查。不要提交任何云凭据，git push不代表Cloudflare已发布。
+部署按[部署说明](文档/维护/部署.md)：GitHub公开仓库、Cloudflare Pages静态托管，不部署云服务器。原片与ZIP不进Git；无原片克隆用runtime-only检查。不要提交任何云凭据，git push不代表Cloudflare已发布。

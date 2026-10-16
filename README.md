@@ -38,7 +38,7 @@ AGENTS.md                     开发协作约束
 ## 线上与源码仓库
 
 - [在线 Demo](https://weibot-video-operations-demo.pages.dev)
-- [GitHub私有仓库](https://github.com/geyaovip/weibot-video-operations-demo)
+- [GitHub公开仓库](https://github.com/geyaovip/weibot-video-operations-demo)
 - [部署说明](文档/维护/部署.md)：Cloudflare Pages静态托管，无云服务器；当前推送与发布分别执行。
 
 原片仅本地保留，Git克隆可用`python3 工具/检查交付.py --source-only --runtime-only`核对部署文件；运行页面不需要原片或Python／Node.js。
