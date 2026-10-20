@@ -8,7 +8,7 @@ import subprocess
 import tempfile
 
 ROOT = Path(__file__).resolve().parents[1]
-PROJECT = 'weibot-video-operations-demo'
+PROJECT = 'video-operations-demo'
 VERSION = '4.149.0'
 
 if __name__ == '__main__':
