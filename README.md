@@ -1,4 +1,4 @@
-# WEIBOT 视频运营 · 内容计划与视频制作工作台
+# 视频运营 · 内容计划与视频制作工作台
 
 面向门店内容运营场景的浏览器端应用原型，整合业务资料、素材管理、内容计划、视频制作与运营报告。项目采用单 HTML 运行结构，并通过 Canvas 与 MediaRecorder 在浏览器内合成可预览、可下载的视频文件。
 
@@ -28,8 +28,8 @@
 ## 本地运行
 
 ```bash
-git clone https://github.com/geyaovip/weibot-video-operations-demo.git
-cd weibot-video-operations-demo
+git clone https://github.com/geyaovip/video-operations-demo.git
+cd video-operations-demo
 python3 -m http.server 8797 --bind 127.0.0.1
 ```
 
